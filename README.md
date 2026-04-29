@@ -40,10 +40,10 @@ I am a **2nd-year Information Systems student** and a **Web Developer** with a p
 
 ### 🚀 What I'm Working On
 
-- 🤖 **AI Integration:** Building high-performance tools to analyze data and improve productivity.
-- 📦 **Full-Stack Apps:** Developing mobile-first marketplaces and sustainable consumption platforms using the Next.js ecosystem.
-- 🏆 **Algorithmic Excellence:** Solving 100+ algorithmic problems and actively participating in the SDU ACM Student Chapter.
-- 🛡️ **Cybersecurity:** Engaging in Capture The Flag (CTF) challenges and digital investigations.
+- **AI Integration:** Building high-performance tools to analyze data and improve productivity.
+- **Full-Stack Apps:** Developing mobile-first marketplaces and sustainable consumption platforms using the Next.js ecosystem.
+- **Algorithmic Excellence:** Solving 100+ algorithmic problems and actively participating in the SDU ACM Student Chapter.
+- **Cybersecurity:** Engaging in Capture The Flag (CTF) challenges and digital investigations.
 
 ---
 
