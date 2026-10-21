@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | AI Enthusiast | Competitive Programmer
 
-I am a **2nd-year Information Systems student** and a **Web Developer** with a passion for building scalable applications and integrating intelligent features into the user experience. I enjoy solving complex algorithmic challenges, exploring the intersection of AI and modern web tech, and tackling the occasional CTF security challenge!
+I am a **3rd-year Information Systems student** and a **Web Developer** with a passion for building scalable applications and integrating intelligent features into the user experience. I enjoy solving complex algorithmic challenges, exploring the intersection of AI and modern web tech, and tackling the occasional CTF security challenge!
 
 ---
 
