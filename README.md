@@ -1,7 +1,7 @@
 
 # hi, i'm dilyara 👋
 
-3rd-year Information Systems student at SDU University 🇰🇿
+3rd-year Information Systems student at SDU University
 
 i like building things from scratch, experimenting with AI, and making websites that look as good as they work.
 
